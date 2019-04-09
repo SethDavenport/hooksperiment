@@ -31,7 +31,9 @@ How to mock downstream hooks?
 * Folder structure
 * How to do Redux cleanly
 * How to unit test a custom hook?
+* How to test a component with mocked hooks?
 
 ## TODO:
 * Refactor idiomatic React JS quip
-* 
+* Microapp plop generator
+* Update micro-app, pw, terminal, async-action to 16.8
