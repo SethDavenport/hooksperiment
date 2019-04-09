@@ -24,7 +24,7 @@ Prefer custom hooks to wrapper components
 
 5. Logic should be testable as basic functions
 
-How to mock downstream hooks?
+How to mock downstream hooks? (don't pull in subtrees of transitive hooks)
 
 ## Open Questions
 
