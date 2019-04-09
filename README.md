@@ -28,10 +28,9 @@ How to mock downstream hooks? (don't pull in subtrees of transitive hooks)
 
 ## Open Questions
 
-* Folder structure
 * How to do Redux cleanly
-* How to unit test a custom hook?
-* How to test a component with mocked hooks?
+* ~How to unit test a custom hook?~
+* How to mock custom hooks in snapshot tests, storybook stories?
 
 ## TODO:
 * Refactor idiomatic React JS quip
